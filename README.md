@@ -10,4 +10,4 @@ This credential has been successfully evaluated by the American Council on Educa
 https://www.acenet.edu/National-Guide/Pages/Course.aspx?org=IBM&cid=eb7d51c4-662b-ec11-b6e5-000d3a58e694&oid=6d532c35-75c4-ea11-a812-000d3a33232a
 
 
-### Here You will find my Final Capstone Project to earn this certificate.
+#### Here You will find my final capstone project qualified me for this certificate.
